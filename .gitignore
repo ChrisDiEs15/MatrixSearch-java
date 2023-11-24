@@ -1,0 +1,10 @@
+# Archivos generados por Visual Studio Code
+.vscode/
+.settings/
+.classpath
+.project
+# Archivos generados por NetBeans
+nbproject/
+build/
+dist/
+nb-configuration.xml
